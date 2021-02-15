@@ -7,3 +7,12 @@ body{
     width: 1000px;
     margin: 0 auto;
 }
+#header{
+    background: url(panorama.jpg), url(cimer.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    min-width: 650px;
+    max-width: 1000px;
+    height: 200px;
+}
