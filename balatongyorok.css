@@ -16,3 +16,15 @@ body{
     max-width: 1000px;
     height: 200px;
 }
+#bal{
+    width: 450px;
+    background-color: #5b9cea;
+}
+#jobb{
+    width: 450px;
+    background-color: #5b9cea;
+    float: right;
+}
+#alsoketto{
+    overflow: hidden;
+}
