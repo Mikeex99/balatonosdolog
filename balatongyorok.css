@@ -8,7 +8,7 @@ body{
     margin: 0 auto;
 }
 #header{
-    background-image: url(panorama.jpg), url(cimer.jpg);
+    background-image: url(panorama.jpg), url(./cimer.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -45,4 +45,8 @@ body{
     border-style: solid;
     width: 50%;
 }
-
+#kep{
+    height: 200px;
+    width: auto;
+    float: right;
+}
