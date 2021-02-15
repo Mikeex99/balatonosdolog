@@ -28,3 +28,19 @@ body{
 #alsoketto{
     overflow: hidden;
 }
+#tabla{
+    border: 1px;
+    border-color: black;
+    border-style: solid;
+    text-align: center;
+    background-color: #b0d1f1;
+}
+#cell{
+    border: 1px;
+    margin: 0px;
+    padding: 0px;
+    border-color: black;
+    border-style: solid;
+    width: 50%;
+}
+
